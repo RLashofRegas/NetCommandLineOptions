@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCommandLineOptions": {
+      "commandName": "Project",
+      "commandLineArgs": "-t test -i 5 -o \"other test\""
+    }
+  }
+}
